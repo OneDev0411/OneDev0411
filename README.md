@@ -64,18 +64,6 @@
       </a>
       <br>MongoDB
     </td>
-    <td align="center" width="120"> 
-      <a href="#" >
-	                              <img src="./img/supabase.png" width="48" height="48" alt="Neovim" /> 
-      </a>
-      <br>Supabase
-    </td>
-    <td align="center" width="120"> 
-      <a href="#" >
-	                              <img src="./img/firebase.png" width="48" height="48" alt="Neovim" /> 
-      </a>
-      <br>Firebase
-    </td>
     <td align="center" width="120">
       <a href="#">
                                 <img src="./img/aws.svg" width="48" height="48" alt="Neovim" /> 
@@ -94,16 +82,21 @@
       </a>
       <br>Python
     </td>
-  </tr>
-
-  <tr>
-    
     <td align="center" width="120"> 
       <a href="#" >
                 <img src="./img/tailwind.svg" width="48" height="48" alt="Neovim" />      
       </a>
       <br>Tailwind CSS
     </td>
+    <td align="center" width="120"> 
+      <a href="#" >
+	                              <img src="./img/firebase.png" width="48" height="48" alt="Neovim" /> 
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+
+  <tr>
     <td align="center" width="120">
       <a href="#">
                  <img src="./img/bootstrap.svg" width="48" height="48" alt="Neovim" /> 
